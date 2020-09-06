@@ -8,4 +8,4 @@ ReactDom.render(
 
     <App />,
     document.querySelector('#app')
-)
+);
